@@ -1,0 +1,16 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++11",
+            "-I",
+            "/home/dev/third_part/include",
+            "-o",
+            "http_server",
+            "http_server.cc"
+        ],
+        "directory": "/home/dev/tmp/cpp_doc_searcher2/http_server",
+        "file": "http_server.cc"
+    }
+]

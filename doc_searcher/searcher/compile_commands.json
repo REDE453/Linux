@@ -1,0 +1,16 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++11",
+            "-I",
+            "/home/dev/third_part/include",
+            "-o",
+            "searcher",
+            "searcher.cc"
+        ],
+        "directory": "/home/dev/tmp/doc_searcher/searcher",
+        "file": "searcher.cc"
+    }
+]
